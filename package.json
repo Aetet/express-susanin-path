@@ -1,0 +1,11 @@
+{
+  "name": "express-susanin",
+  "description": "Bridge between susanin-style routes and express-router",
+  "version": "0.0.1",
+  "author": "Aetet <https://github.com/Aetet>",
+  "main": "./index.js",
+  "dependencies": {
+    "augment": "^4.3.0",
+    "susanin": "^0.1.11"
+  }
+}
